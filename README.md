@@ -40,8 +40,8 @@ Python, pandas, matplotlib, Jupyter Notebook
 
 ## Files
 
-- `notebook.ipynb`: full analysis with code and charts
-- `duration_histogram.png`: duration distribution chart
+- `netflix_data.csv`: full analysis with code and charts
+- `screenshot 2026-11-15`: duration distribution chart
 - `README.md`: project overview
 
 ## How to Run
