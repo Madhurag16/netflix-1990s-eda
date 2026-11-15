@@ -1,4 +1,4 @@
-# netflix-1990s-eda
+
 # Netflix 1990s Movies: Exploratory Data Analysis
 
 Exploratory analysis of Netflix movies released in the 1990s, framed as research for a production company that specializes in nostalgic styles.
